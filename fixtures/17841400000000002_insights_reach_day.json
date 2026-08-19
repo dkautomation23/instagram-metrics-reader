@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "name": "reach",
+      "period": "day",
+      "values": [
+        { "value": 4120, "end_time": "2026-08-17T07:00:00+0000" },
+        { "value": 5310, "end_time": "2026-08-18T07:00:00+0000" },
+        { "value": 3890, "end_time": "2026-08-19T07:00:00+0000" }
+      ],
+      "id": "17841400000000002/insights/reach/day"
+    },
+    {
+      "name": "profile_views",
+      "period": "day",
+      "values": [
+        { "value": 210, "end_time": "2026-08-17T07:00:00+0000" },
+        { "value": 265, "end_time": "2026-08-18T07:00:00+0000" },
+        { "value": 198, "end_time": "2026-08-19T07:00:00+0000" }
+      ],
+      "id": "17841400000000002/insights/profile_views/day"
+    },
+    {
+      "name": "accounts_engaged",
+      "period": "day",
+      "values": [
+        { "value": 512, "end_time": "2026-08-17T07:00:00+0000" },
+        { "value": 601, "end_time": "2026-08-18T07:00:00+0000" },
+        { "value": 447, "end_time": "2026-08-19T07:00:00+0000" }
+      ],
+      "id": "17841400000000002/insights/accounts_engaged/day"
+    }
+  ]
+}

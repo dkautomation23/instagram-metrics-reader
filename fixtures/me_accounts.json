@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": "102938475601122",
+      "name": "Lena Fitness Studio",
+      "instagram_business_account": { "id": "17841400000000001" }
+    },
+    {
+      "id": "102938475603344",
+      "name": "Nordic Travel Diaries",
+      "instagram_business_account": { "id": "17841400000000002" }
+    },
+    {
+      "id": "102938475605566",
+      "name": "Old Bakery Page (no IG linked)"
+    }
+  ],
+  "paging": { "cursors": { "before": "MAZDZD", "after": "MgZDZD" } }
+}

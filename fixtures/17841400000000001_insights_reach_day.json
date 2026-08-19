@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "name": "reach",
+      "period": "day",
+      "title": "Accounts reached",
+      "description": "The number of unique accounts that saw any of your content",
+      "total_value": { "value": 187432 },
+      "id": "17841400000000001/insights/reach/day"
+    },
+    {
+      "name": "profile_views",
+      "period": "day",
+      "title": "Profile views",
+      "total_value": { "value": 5124 },
+      "id": "17841400000000001/insights/profile_views/day"
+    },
+    {
+      "name": "accounts_engaged",
+      "period": "day",
+      "title": "Accounts engaged",
+      "total_value": { "value": 9863 },
+      "id": "17841400000000001/insights/accounts_engaged/day"
+    }
+  ]
+}
