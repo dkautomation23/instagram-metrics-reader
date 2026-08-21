@@ -1,7 +1,5 @@
 # instagram-metrics-reader
 
-Sample project demonstrating production web-scraping / automation patterns.
-
 Reads Instagram Business/Creator metrics — followers, reach, engagement —
 through the Meta Graph API, **strictly read-only**. Built for the case a creator
 marketplace has: dozens of connected creators, shared API rate limits, tokens
