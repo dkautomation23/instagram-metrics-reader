@@ -1,5 +1,7 @@
 # instagram-metrics-reader
 
+[![CI](https://github.com/dkautomation23/instagram-metrics-reader/actions/workflows/ci.yml/badge.svg)](https://github.com/dkautomation23/instagram-metrics-reader/actions/workflows/ci.yml)
+
 Reads Instagram Business/Creator metrics — followers, reach, engagement —
 through the Meta Graph API, **strictly read-only**. Built for the case a creator
 marketplace has: dozens of connected creators, shared API rate limits, tokens
