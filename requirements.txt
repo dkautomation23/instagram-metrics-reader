@@ -1,5 +1,5 @@
 requests>=2.32
-python-dotenv>=1.0
+python-dotenv>=1.2.4
 
 # Development / tests
 pytest>=8.0
